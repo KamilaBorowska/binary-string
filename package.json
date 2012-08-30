@@ -1,0 +1,12 @@
+{
+  "author":       "GlitchMr <glitchmr@myopera.com> (http://glitchmr.github.com)",
+  "name":         "binary-string",
+  "description":  "Binary string because binary encoding still has its uses.",
+  "version":      "v1.0.0",
+  "keywords":     [ "string", "binary", "encoding" ],
+  "homepage":     "http://github.com/GlitchMr/binary-string",
+  "bugs":         { "url": "http://github.com/GlitchMr/binary-string/issues" },
+  "main":         "./lib/binary-string",
+  "repository":   { "type": "git", "url": "https://github.com/GlitchMr/binary-string.git" },
+  "scripts":      { "test": "node test/test" }
+}
