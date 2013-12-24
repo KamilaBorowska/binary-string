@@ -6,10 +6,10 @@ instead of low-level `Buffer`s. Who cares about performance? If we
 would care so much, we all would write in assembly :-).
 
 This module will try to use Node.js binary strings if you are using
-version create before their removal (while destroying all warnings
-about them). If your Node.js version doesn't have binary strings, they
-are emulated which makes them even slower (but well, you have them,
-and if you care about performance, write in assembly).
+version before their removal (while destroying all warnings about them).
+If your Node.js version doesn't have binary strings, they are emulated
+which makes them even slower (but well, you have them, and if you care
+about performance, write in assembly).
 
 Unlike `Buffer`s, you can do anything you can with normal strings on
 binary strings (internally, they are normal strings). You can use
