@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/GlitchMr/binary-string.png?branch=master)](http://travis-ci.org/GlitchMr/binary-string) 
+[![Build Status](https://secure.travis-ci.org/xfix/binary-string.png?branch=master)](http://travis-ci.org/xfix/binary-string) 
 
 Binary strings still have their uses. Don't let huge warning of Node.js
 stop you from using them. There are valid reasons to use binary strings
